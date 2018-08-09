@@ -1,0 +1,6 @@
+[package]
+name = "check_digit"
+version = "0.1.0"
+authors = ["Tan Quach <tan.quach@birchwoodlangham.com>"]
+
+[dependencies]
